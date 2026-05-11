@@ -3,11 +3,8 @@
 
 Software Engineering student focused on AI systems, backend engineering, and practical software development.
 
-## Currently Working On
-- University AI Assistant
-- RAG pipelines & semantic search
-- Backend/API development
-- Portfolio website
+## Currently DEPLOYINGGG !!
+
 
 ## Tech Stack
 - Python
