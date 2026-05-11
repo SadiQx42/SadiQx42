@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**SadiQx42/SadiQx42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sadiq 👋
 
-Here are some ideas to get you started:
+Software Engineering student focused on AI systems, backend engineering, and practical software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On
+- University AI Assistant
+- RAG pipelines & semantic search
+- Backend/API development
+- Portfolio website
+
+## Tech Stack
+- Python
+- Java
+- JavaScript
+- FastAPI
+- Git & GitHub
+- FAISS
+- SQL
+
+## Learning
+- AI Engineering
+- System Design
+- Docker
+- PostgreSQL
+- Deployment & Cloud Basics
+
+## Goals
+- Build meaningful AI-powered systems
+- Develop production-level engineering skills
+- Create scalable and practical software
+
+## Connect With Me
+- LinkedIn: [Your LinkedIn URL]
+- Portfolio: Coming Soon
