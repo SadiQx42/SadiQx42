@@ -28,5 +28,5 @@ Software Engineering student focused on AI systems, backend engineering, and pra
 - Create scalable and practical software
 
 ## Connect With Me
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: on the left of your screen
 - Portfolio: Coming Soon
