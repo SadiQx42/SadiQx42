@@ -7,8 +7,7 @@
  ║                                                               ║
  ╚═══════════════════════════════════════════════════════════════╝
 ```
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2AF7B2&width=435&lines=Ai+geek+learning+deploying)](https://git.io/typing-svg)
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=2AF7B2&background=D472FF00&width=435&lines=Mastering+Ai+,Everyday+-code+x+build)](https://git.io/typing-svg)
 
 ## 🎯 About Me
 
