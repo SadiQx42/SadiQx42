@@ -91,8 +91,9 @@ Currently brewing up projects that combine elegant code with powerful ML models.
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&border_radius=10)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SadiQx42&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&border_radius=10&layout=compact)
 
